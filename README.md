@@ -1,1 +1,1 @@
-passing the array to Todolist
+passing the array to Todolist using map()
