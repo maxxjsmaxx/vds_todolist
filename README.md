@@ -1,1 +1,1 @@
-adding two arrays
+passing the array to Todolist
